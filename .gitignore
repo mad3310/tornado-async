@@ -1,0 +1,11 @@
+/.project
+
+/.pydevproject
+*.pyo
+*.pyc
+
+/.settings
+
+.idea
+
+build
